@@ -1,0 +1,24 @@
+[
+  {
+    "id": "9bb895ee-3559-4020-9161-7be6db85348c",
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "createdAt": "2021-01-23T07:36:06.000Z",
+    "email": "peterparker@email.com",
+    "phone": {
+      "number": "4253454567",
+      "code": "+1"
+    }
+  },
+  {
+    "id": "61334a03-13c3-4105-a6d7-acf1d709f071",
+    "firstName": "John",
+    "lastName": "Ra",
+    "createdAt": "2021-01-28T07:36:06.000Z",
+    "email": "johnra@email.com",
+    "phone": {
+      "number": "6783451231",
+      "code": "+1"
+    }
+  }
+]
